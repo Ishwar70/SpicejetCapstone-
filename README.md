@@ -1,0 +1,2 @@
+# SpicejetCapstone-
+learning platform
