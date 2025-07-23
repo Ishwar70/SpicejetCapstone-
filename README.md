@@ -167,9 +167,9 @@ Contributions are welcome! Please follow these steps to contribute:
 
 For any queries or support, please contact:
 
-- **Name**: Santosh Sonawane
-- **Email**: Mrsantosh045@example.com
-- **LinkedIn**: https://www.linkedin.com/in/santosh-sonawane-8230ab178/
+- **Name**: Ishwar
+- **Email**: ishwar.cse25@gmail.com
+- **LinkedIn**:[https://www.linkedin.com/in/ishwar70/]
 ---
 
 *Happy Testing! 🚀*
